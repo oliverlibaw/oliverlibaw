@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oliverlibaw
 - 👀 I’m interested in fooling around with ML.
-- 🌱 I’m currently taking the fast.AI ML course.
-- 💞️ I’m looking to collaborate on ... too soo to tell!
+- 🙈 I'm somewhat embarrassed by the motley collection of finished and half-finished projects here in my github. 
+- 💞️ I’m looking to collaborate on quirky art and content projects that leverage machine learning.
 - 📫 How to reach me: oliver@oliverlibaw.com
 
 <!---
